@@ -134,3 +134,25 @@ Darbo principas būtų toks:
 
 Vadovaujantis tokiais principais, manau įmanoma organizuoti darbus taip, kad
 prie projekto galėtų dirbti žmonės naudojantys skirtingas technologijas.
+
+
+Klausimai/atsakymai
+===================
+
+**Yra sukurta bent 5 tokios sistemos, kam reikia dar vienos?**
+
+Visos esamos sistemos yra uždaro kodo. Todėl tokiai visuomeninei iniciatyvai,
+kaip Kodas100 nėra galimybės prisidėti prie sistemos tobulinimo ar klaidų
+taisymo.
+
+
+**Kas apsiims sistemos palaikymu?**
+
+Kadangi Senu sistema yra atviro kodo, teikti palaikyma gali, bet kas, nėra
+pririšimo prie vieno tiekėjo.
+
+Kadangi Sanu sistema kuriama mikroservisų principu, kur gali būti naudojamos
+kelios skirtingos technologijos, palaikymas tampa šiek tiek sudėtingesnis.
+Reikia kelių palaikymo paslaugas teikiančių tiekėjų, vienas būgų atsakingas už
+serverių ir bendrai sistemos veikimo priežiūrą ir papildomai, kiekvienai
+technologijai, reikėtų atskiro tiekėjo, kuris dirba su ta technologija.
