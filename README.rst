@@ -6,8 +6,11 @@ Iš esmės šis projektas sprendžia https://github.com/Kodas100/pradzia/issues/
 Projekto tikslai
 ================
 
-- Išbandyti Kodas100 bendruomenės darbo organizavimą principus sutelkiant
+- Išbandyti Kodas100 bendruomenės darbo organizavimo principus sutelkiant
   skirtingų technologijų specialistus darbui prie vieno projekto.
+
+- Pademonstruoti, kaip galėtų būti kuriami valstybiniai projektai, naudojant
+  atviro kodo principus.
 
 - Praktiškai išbandyti visas e-sveikatos infrastruktūros grandis kuriant naują
   sistemą, tokiu būdu geriau suprantant jos silpnąsias vietas.
